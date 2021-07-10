@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github.com/developer-in-progress/" alt="" width="900px" height="300px">
+<img src="https://github.com/DEVELOPER-IN-PROGRESS/DEVELOPER-IN-PROGRESS/blob/main/images/loop.gif" alt="" width="900px" height="300px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-in-progress" alt="johnsjoseph" /> </p>
 
