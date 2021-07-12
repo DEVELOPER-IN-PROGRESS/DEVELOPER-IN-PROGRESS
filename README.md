@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hey Everyone 👋 I'm Johns  ...</b></h1>
 
 - 🔭 I’m currently working on  JS
-- 🌱 I’m currently learning   React 
+- 🌱 I’m currently learning   React , AMP
 
 
 
