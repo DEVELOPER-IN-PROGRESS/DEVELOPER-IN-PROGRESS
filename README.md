@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey Everyone 👋 I'm Johns  ...</b></h1>
+<h1 align="center"><b>Hey Everyone 👋 I'm Johns .... ...</b></h1>
 
 - 🔭 I’m currently working on  Javascript and React.js
 - 🌱 I’m currently learning Python for leetcoding 
