@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hey Everyone 👋 I'm Johns .... ...</b></h1>
 
 - 🔭 I’m currently working on  Javascript and React.js
-- 🌱 I’m currently learning Python for leetcoding preparations
-- 🤔 I’m looking for help with competitive programming and data structures...
+- 🌱 I’m  learning Python just for fun 
+- 🤔 I’m looking for help with  devOps and cloud computing 
 
 <img src="https://github.com/DEVELOPER-IN-PROGRESS/DEVELOPER-IN-PROGRESS/blob/main/images/loop.gif" alt="" width="900px" height="300px">
 
