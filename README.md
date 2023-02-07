@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on  Javascript and React.js
 - 🌱 I’m  learning Python just for fun 
-- 🤔 I’m looking for help with  devOps and cloud computing 
 
 <img src="https://github.com/DEVELOPER-IN-PROGRESS/DEVELOPER-IN-PROGRESS/blob/main/images/loop.gif" alt="" width="900px" height="300px">
 
